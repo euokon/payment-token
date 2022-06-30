@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eokon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eokon\\.nuget\\packages"
+    ]
+  }
+}
