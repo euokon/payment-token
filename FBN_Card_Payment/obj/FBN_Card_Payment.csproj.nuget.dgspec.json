@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_Card_Payment\\FBN_Card_Payment.csproj": {}
+    "D:\\DAO\\eeemma\\Git Repos\\payment-token\\FBN_Card_Payment\\FBN_Card_Payment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_Card_Payment\\FBN_Card_Payment.csproj": {
+    "D:\\DAO\\eeemma\\Git Repos\\payment-token\\FBN_Card_Payment\\FBN_Card_Payment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_Card_Payment\\FBN_Card_Payment.csproj",
+        "projectUniqueName": "D:\\DAO\\eeemma\\Git Repos\\payment-token\\FBN_Card_Payment\\FBN_Card_Payment.csproj",
         "projectName": "FBN_Card_Payment",
-        "projectPath": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_Card_Payment\\FBN_Card_Payment.csproj",
+        "projectPath": "D:\\DAO\\eeemma\\Git Repos\\payment-token\\FBN_Card_Payment\\FBN_Card_Payment.csproj",
         "packagesPath": "C:\\Users\\eokon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_Card_Payment\\obj\\",
+        "outputPath": "D:\\DAO\\eeemma\\Git Repos\\payment-token\\FBN_Card_Payment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eokon\\AppData\\Roaming\\NuGet\\NuGet.Config",
